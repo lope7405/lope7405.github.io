@@ -1,11 +1,11 @@
 * {
     padding: 0px;
-    margin: 50px;
+    margin: 0px;
     color: #710691;
 }
 
 body {
-    background-color: rgb(110, 101, 101);
+    background-color: rgb(9, 13, 53);
     padding: 0px;
     margin: 0px;
 }
@@ -28,7 +28,7 @@ aside {
     font-family: sans-serif;
     color: white;
     border: 2px solid black;
-    float: right;
+    float: left;
     width: 30%;
 }
 
@@ -40,15 +40,15 @@ footer {
 }
 
 header {
-    border: 3px solid #fd016a;
-    background-color: #222222;
+    border: 3px solid #b30505;
+    background-color: #3b0808;
     font-family: sans-serif;
     height: 120px;
     padding: 0;
 }
 
 footer {
-    border: 3px solid #FD7D01;
+    border: 3px solid #ece8e4;
     background-color: #222222;
     font-family: sans-serif;
     height: 120px;
