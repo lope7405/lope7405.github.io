@@ -11,12 +11,12 @@ body {
 }
 
 main {
-    background-color: rgb(110, 101, 101);
+    background-color: rgb(18, 5, 56);
 }
 
 article {
-    border: 1px solid gray;
-    box-shadow: 2px 2px 5px gray;
+    border: 1px rgb(18, 5, 56) ;
+    box-shadow: 2px 2px 5px rgb(18, 5, 56);
     margin: 3em;
     padding: 1em;
 }
@@ -27,7 +27,7 @@ aside {
     font-size: 50px;
     font-family: sans-serif;
     color: white;
-    border: 2px solid black;
+    border: 2px solid rgb(39, 12, 158);
     float: left;
     width: 30%;
 }
@@ -48,24 +48,24 @@ header {
 }
 
 footer {
-    border: 3px solid #ece8e4;
-    background-color: #222222;
+    border: 3px solid #b30505;
+    background-color: #3b0808;
     font-family: sans-serif;
     height: 120px;
     padding: 0;
 }
 
 header * {
-    color: #FD7D01;
+    color: #fafafa;
 }
 
 footer * {
-    color : #FD7D01;
+    color : #eee9e4;
 }
 
 hr {
     padding: 0px;
-    border: 4px solid #FD7D01;
+    border: 4px solid #fcfaf8;
 }
 
 li {
